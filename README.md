@@ -7,5 +7,18 @@ This project focuses on analyzing healthcare insurance data to uncover insights 
 
 ## Objectives
 
-- Performed EDA to understand the distribution and relationships within the dataset.
+- Perform EDA to understand the distribution and relationships within the dataset.
 - Identify key factors affecting healthcare insurance charges.
+- Use statistical analysis and visualization to present findings effectively.
+
+## Dataset Description
+
+The dataset contains the following columns:
+
+- age: Age of the individual.
+- sex: Gender of the individual (male/female).
+- bmi: Body Mass Index of the individual.
+- children: Number of children covered by the insurance.
+- region: Geographic region (e.g., southeast, northwest).
+- smoker: Smoking status (yes/no).
+- charges: Total insurance charges billed.
