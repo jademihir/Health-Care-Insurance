@@ -22,3 +22,12 @@ The dataset contains the following columns:
 - region: Geographic region (e.g., southeast, northwest).
 - smoker: Smoking status (yes/no).
 - charges: Total insurance charges billed.
+
+## Tools and Technologies
+
+
+- Python: Data analysis and visualization.
+
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn.
+
+- Jupyter Notebook: For code implementation and analysis.
