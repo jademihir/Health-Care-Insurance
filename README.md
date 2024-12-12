@@ -31,3 +31,9 @@ The dataset contains the following columns:
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn.
 
 - Jupyter Notebook: For code implementation and analysis.
+
+## Key Steps
+
+1. Data Cleaning: Handled missing values, outliers, and ensured data consistency.
+
+2. Exploratory Data Analysis (EDA):
