@@ -36,4 +36,26 @@ The dataset contains the following columns:
 
 1. Data Cleaning: Handled missing values, outliers, and ensured data consistency.
 
-2. Exploratory Data Analysis (EDA):
+2. Exploratory Data Analysis (EDA): Examined data distributions and correlations. Visualized relationships between features and charges using box plots, histograms, and scatter plots.
+
+## Insights
+
+Smoking significantly increases insurance charges.
+
+Higher BMI correlates with increased charges, indicating the impact of health risks.
+
+Charges vary significantly across regions and increase with age.
+
+
+## Results
+
+Identified key factors influencing insurance costs, providing insights for policy adjustments and health recommendations.
+
+
+## Conclusion
+
+This project demonstrates how data analysis can be used to gain meaningful insights into healthcare insurance costs, helping both providers and policyholders make informed decisions.
+
+
+
+
